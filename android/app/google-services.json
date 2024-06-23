@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712785504585",
+    "project_id": "key-pos-skripsi",
+    "storage_bucket": "key-pos-skripsi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712785504585:android:72f011defaad377e20d298",
+        "android_client_info": {
+          "package_name": "com.keypos.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZr30tWxOTpzpAd8QHDucngYNAVjVSuxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
